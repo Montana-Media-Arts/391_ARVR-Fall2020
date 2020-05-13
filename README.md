@@ -1,12 +1,12 @@
-# Creative Coding 1 - MART 120
+# Introduction to Augmented and Virtual Reality - MART 391
 
-The web-based version of Creative Coding 1 at the School of Media Arts, University of Montana.
+This is the web-based version of the Introduction to Augmented and Virtual Reality at the School of Media Arts, University of Montana.
 
-This course is designed to teach code so that it can become a tool for art and creativity.
+This course is designed to teach students how to design and develop artistic, game-based and real-world applications for augmented and virtual reality.
 
-Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](https://p5js.org), this course teaches concepts from computer science and programming and allows us to apply it to our artistic expressions.
+Utilizing AR.js, ARCore in Unity, 360 video for VR, and the Oculus XR-plugib, this course teaches concepts from computer science and programming and allows us to apply it to our artistic expressions.
 
-- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/creative-coding-1-Fall2019/)
+- [AR/VR Website](https://montana-media-arts.github.io/391_ARVR-Fall2020/)
 
 
 ### Updated by
@@ -19,4 +19,4 @@ Utilizing Code.org, Scratch, App Lab, Alice, HTML, CSS, JavaScript and [p5.js](h
 
 ### Updated
 
-This course was last updated: 2019-5-28
+This course was last updated: 2020-5-13
