@@ -10,6 +10,9 @@ module: 2
   <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
 <button class="tablinks" onclick="openTab(event, 'Frame')">Frame Markers</button>
 <button class="tablinks" onclick="openTab(event, 'Image')">Image/NFT Markers</button>
+<button class="tablinks" onclick="openTab(event, 'GPS')">GPS Markers</button>
+<button class="tablinks" onclick="openTab(event, 'Object')">Object Markers</button>
+
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
