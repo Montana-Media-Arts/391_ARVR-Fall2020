@@ -8,6 +8,7 @@ module: 2
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks" onclick="openTab(event, 'Examples')">Examples</button>
+  <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
@@ -50,4 +51,11 @@ module: 2
 <li><a href="https://justaline.withgoogle.com/" target="_new">Just a Line</a></li>
 <li><a href="https://www.ingress.com/game/" target="_new">Ingress Prime</a></li>
 </ol>
+</div>
+<div id="ToDo" class="tabcontent">
+    <ol>
+    <li>Spend 2 minutes thinking about other AR Examples</li>
+    <li>Spend 5 minutes talking with a classmate about your Example and it's significance</li>
+    <li>Share your examples with the class</li>
+    </ol>
 </div>
