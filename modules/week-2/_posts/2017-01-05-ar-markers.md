@@ -8,13 +8,13 @@ module: 2
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
-<button class="tablinks" onclick="openTab(event, 'Frame')">Frame Markers</button>
-<button class="tablinks" onclick="openTab(event, 'Image')">Image/NFT Markers</button>
-<button class="tablinks" onclick="openTab(event, 'GPS')">GPS Markers</button>
-<button class="tablinks" onclick="openTab(event, 'Object')">Object Markers</button>
+<button class="tablinks" onclick="openTab(event, 'Frame')">Frame</button>
+<button class="tablinks" onclick="openTab(event, 'Image')">Image/NFT</button>
+<button class="tablinks" onclick="openTab(event, 'GPS')">GPS</button>
+<button class="tablinks" onclick="openTab(event, 'Object')">Object</button>
 <button class="tablinks" onclick="openTab(event, 'MarkerLess')">Marker Less</button>
-<button class="tablinks" onclick="openTab(event, 'Multi')">Multi Markers</button>
-<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual Markers</button>
+<button class="tablinks" onclick="openTab(event, 'Multi')">Multi</button>
+<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual</button>
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
