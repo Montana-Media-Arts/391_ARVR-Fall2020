@@ -60,5 +60,5 @@ In this class, we will primarily use Unity to create AR and VR experiences when 
 </ol>
 </div>
 <div id="Video" class="tabcontent">
-<p><a href="//www.youtube.com/watch?v=Ml2UakwRxjk" data-lity>Adobe Aero Video</a></p>
+<p><a href="//www.youtube.com/watch?v=Ml2UakwRxjk" data-lity>AR Foundation Video</a></p>
 </div>
