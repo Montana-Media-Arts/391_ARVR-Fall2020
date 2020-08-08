@@ -14,6 +14,7 @@ module: 2
 <button class="tablinks" onclick="openTab(event, 'Object')">Object Markers</button>
 <button class="tablinks" onclick="openTab(event, 'MarkerLess')">Marker Less</button>
 <button class="tablinks" onclick="openTab(event, 'Multi')">Multi Markers</button>
+<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual Markers</button>
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
@@ -98,5 +99,14 @@ The main advantage is obvious. Viewing angle doesn’t matter anymore to recogni
 <p>
 Multimarkers are a group of several single markers which have a predefined relation to each other. It was the first attempt to widen the field of view of a user. Only one marker out of the group needed to be completely visible to project the virtual information.
 </p>
+</div>
+<div id="NonVisual" class="tabcontent">
+<p>In most of the cases you talk about "visual" markers but there are other possibilities. We already mentioned GPS markers. Here are four other more or less common non-visual markers.</p>
+<ol>
+<li>Activation marker. If you activate your camera app on your mobile phone you often see additional information on the upper and lower side of your picture. In most cases your current settings for your camera. Since this is a virtual information which is projected into your live camera feed this is augmented reality by definition. Your marker is replaced by "activation" of your camera-app.</li>
+<li>The second example is RFID Tags. They are used for short distance wireless communication. You might know them from contact-free payment methods. You got some tags and an antenna. When the antenna gets close enough to a tag there is some communication between them. The same method can be used to trigger local based virtual information to be shown in certain spots.</li>
+<li>You. Yes, that’s right. Long before technology caught up to the hype people used to insert additional information into live streamings. For example: A commentator at a soccer game drew running paths of players in a replay or circle specific players to point them out. This was also AR.</li>
+<li>The last example is speech commands. This method is more suited for AR-glasses than mobile devices. You can just order your device to display certain information in your view. Your current position for example.</li>
+</ol>
 </div>
 <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker#:~:text=Marker%20%E2%80%93%20Augmented%20Reality&text=In%20short%3A%20Augmented%20reality%20markers,later%20in%20the%20camera%20stream." target="_new"><em>Reference</em></a>
