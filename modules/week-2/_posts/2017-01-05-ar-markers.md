@@ -12,7 +12,8 @@ module: 2
 <button class="tablinks" onclick="openTab(event, 'Image')">Image/NFT Markers</button>
 <button class="tablinks" onclick="openTab(event, 'GPS')">GPS Markers</button>
 <button class="tablinks" onclick="openTab(event, 'Object')">Object Markers</button>
-
+<button class="tablinks" onclick="openTab(event, 'MarkerLess')">Marker Less</button>
+<button class="tablinks" onclick="openTab(event, 'Multi')">Multi Markers</button>
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
@@ -75,4 +76,27 @@ The main advantage is obvious. Viewing angle doesn’t matter anymore to recogni
 </p>
 </div>
 
+<div id="MarkerLess" class="tabcontent">
+<table>
+<tr>
+<td><img src="../imgs/Markerless-Example-1.jpg" width="100" height="100" /></td>
+<td><img src="../imgs/Markerless-Example-2.jpg" width="100" height="100" /></td>
+<td><img src="../imgs/Markerless-Example-3.jpg" width="100" height="100" /></td>
+</tr>
+</table>
+<p>The name might be a bit confusing. This technique might be best known from frameworks like kudan or google tango. First you manually position an object in your view. Then it seems to be locked in place. But the system doesn’t solely depend on the sensors to keep the object in place. Although enormous advancements in the accuracy were made it still isn’t enough. It is more likely that sensor information are combined with solving the SLAM problem. When you place the object the hololens is extracting feature points from behind and around the object and use this information in conjunction with the sensor information to adjust the position of the object. So placing objects on a ground with many features should work better than placing it on a white piece of paper.</p>
+<p>Be aware: Not everyone does define “markerless” this way.</p>
+</div>
+<div id="Multi" class="tabcontent">
+<table>
+<tr>
+<td><img src="../imgs/Multimarker-ARToolkit.png" width="100" height="100" /></td>
+<td><img src="../imgs/Multimarker-Normal.png" width="100" height="100" /></td>
+<td><img src="../imgs/Mulitmarker-4.png" width="100" height="100" /></td>
+</tr>
+</table>
+<p>
+Multimarkers are a group of several single markers which have a predefined relation to each other. It was the first attempt to widen the field of view of a user. Only one marker out of the group needed to be completely visible to project the virtual information.
+</p>
+</div>
 <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker#:~:text=Marker%20%E2%80%93%20Augmented%20Reality&text=In%20short%3A%20Augmented%20reality%20markers,later%20in%20the%20camera%20stream." target="_new"><em>Reference</em></a>
