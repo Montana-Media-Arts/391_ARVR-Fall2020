@@ -59,4 +59,17 @@ People talking about augmented reality often mention the words "tracking" and "m
 <p>Advancement in hard- and software lead to new approaches in this area but in most cases, developers combine gps marker with some other method.</p>
 </div>
 
+<div id="Object" class="tabcontent">
+<table>
+<tr>
+<td><img src="../imgs/Vuforia_Object.jpg" width="100" height="100" /></td>
+<td><img src="../imgs/Wikitude_3D_Tracking.jpg" width="100" height="100" /></td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<p>Up until this point, we only had 2D-Markers and one based on gps information. But advancement in technology allows most mobile devices to solve the so-called SLAM (simultaneous localization and mapping) Problem in an efficient way. In this problem you extract information from your surroundings, or in this case your camera, in real-time and use this information to place a virtual object in it. Some premium frameworks offer the use of small objects as 3D-Markers. In a first step, the object gets analyzed and a point cloud is extracted. During the tracking phase, you extract point clouds from your camera input and try to match it to the cloud you have.
+The main advantage is obvious. Viewing angle doesn’t matter anymore to recognize the marker.
+</p>
+</div>
+
 <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker#:~:text=Marker%20%E2%80%93%20Augmented%20Reality&text=In%20short%3A%20Augmented%20reality%20markers,later%20in%20the%20camera%20stream." target="_new"><em>Reference</em></a>
