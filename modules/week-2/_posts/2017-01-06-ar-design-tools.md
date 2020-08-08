@@ -21,6 +21,8 @@ Example here.
 
 <p>Another is <a href="https://www.unitear.com/" target="_new">Unite AR</a><p>
 
+<p>Another design tool is <a href="https://edu.cospaces.io/" target="_new">Co Spaces Edu</a></p>
+
 Another one that is out there for both devices is Google Expeditions.
 
 [Google Expeditions - Android](https://play.google.com/store/apps/details?id=com.google.vr.expeditions)
