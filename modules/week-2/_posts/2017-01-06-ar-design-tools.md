@@ -7,8 +7,6 @@ module: 2
 # AR Design Tools
 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="" frameborder="0" allowfullscreen></iframe></div>
-
 There are a lot of tools out there that will help you create augmented reality experiences.
 
 One that has gained a lot of popularity on iOS is Adobe Aero.
@@ -19,7 +17,9 @@ If you have an iOS device, I encourage you to try this out. You can add characte
 
 Example here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RjEYH6YIf0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="//www.youtube.com/embed/RjEYH6YIf0g" data-lity>Adobe Aero Video</a></p>
+
+<p>Another is <a href="https://www.unitear.com/" target="_new">Unite AR</a><p>
 
 Another one that is out there for both devices is Google Expeditions.
 
@@ -33,6 +33,7 @@ Another mobile AR app is called Sketch AR, which allows you to take existing pho
 
 [SketchAR - iOS](https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8)
 
-Finally, we will also look at a desktop program that allows us to create AR experiences that can be view on our phone. It's called Vuforia.  It is quite robust, but it gives us the ability to import 3D objects, images, text, and more and then create an AR experience from that without any code.  Watch the video below on how to get everything installed.
+We will also look at a desktop program that allows us to create AR experiences that can be view on our phone. It's called Vuforia.  It is quite robust, but it gives us the ability to import 3D objects, images, text, and more and then create an AR experience from that without any code.  Watch the video below on how to get everything installed.
 
 [VuForia](https://vuforia.com/)
+
