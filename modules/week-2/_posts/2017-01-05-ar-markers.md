@@ -34,7 +34,7 @@ People talking about augmented reality often mention the words "tracking" and "m
 
 </div>
 
-<div id="Image" class="tabcontent" style="display:block">
+<div id="Image" class="tabcontent">
 <table>
 <tr>
 <td><img src="../imgs/AugementedRealityMarkerAnymotion.jpg" width="100" height="100" /><br />Initial Image</td>
@@ -45,7 +45,7 @@ People talking about augmented reality often mention the words "tracking" and "m
 <p>Known under a few names we think NFT or natural feature Tracking Marker is the most appropriate name. NFT markers are the next logical step to framemarkers. NFT markers are images too but you don’t need the black border anymore. Instead, you extract so-called natural features from any picture you like. The problem is to determine “good” natural features and up to this point, it is much more trial and error than when using a frame marker. Every AR-frameworks has his own little secrets in this regard and quality and stability varies greatly from framework to framework.</p>
 
 </div>
-<div id="GPS" class="tabcontent" style="display:block">
+<div id="GPS" class="tabcontent">
 <table>
 <tr>
 <td><img src="../imgs/POI.jpg" width="100" height="100" /><br />POI</td>
