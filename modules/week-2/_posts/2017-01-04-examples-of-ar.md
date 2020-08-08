@@ -5,12 +5,22 @@ module: 2
 
 # Examples of Augmented Reality
 
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks" onclick="openTab(event, 'Examples')">Examples</button>
+</div>
+
+<div id="Overview" class="tabcontent" style="display:block">
+
 <p><a href="" data-lity>Augmented Reality Example Video</a></p>
 
 AR let us see the real-life environment right in front of us—trees swaying in the park, dogs chasing balls, kids playing soccer—with a digital augmentation overlaid on it. For example,  a pterodactyl might be seen landing in the trees, the dogs could be mingling with their cartoon counterparts, and the kids could be seen kicking past an alien spacecraft on their way to score a goal.
 
 With advances in AR technology, these examples are not that different from what might already be available for your smartphone. Augmented reality is, in fact, readily available. It is being used in a myriad of ways, including Snapchat lenses, in apps that help you find your car in a crowded parking lot, and in a variety of shopping apps that let you try on clothes without even leaving home.
+</div>
 
+
+<div id="Examples" class="tabcontent">
 Perhaps the most famous example of AR technology is the mobile app Pokemon Go, which was released in 2016 and quickly became an inescapable sensation. In the game, players locate and capture Pokemon characters that pop up in the real world—on your sidewalk, in a fountain, even in your bathroom.
 
 Games aside, there are as many uses for AR in our everyday lives as there are Pikachu on the loose in Pokemon GO. Here are just a few examples:
@@ -35,3 +45,5 @@ Specific examples are as follows.
 7. [Knight Fall AR](https://www.wearvr.com/apps/knightfall-ar)
 8. [Just a Line](https://justaline.withgoogle.com/)
 9. [Ingress Prime](https://www.ingress.com/game/)
+
+</div>
