@@ -10,6 +10,7 @@ In this class, we will primarily use Unity to create AR and VR experiences when 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Download')">Download</button>
   <button class="tablinks" onclick="openTab(event, 'Install')">Install</button>
+  <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
 </div>
 
 <div id="Download" class="tabcontent" style="display:block">
@@ -39,13 +40,25 @@ In this class, we will primarily use Unity to create AR and VR experiences when 
 <li>Click <b>Add</b>.</li>
 <li>Select the most recent version (should be on top) and click <b>Next</b>.</li>
 <li>In the <b>Add Modules</b> window, select either <b>Windows Build Support</b> or <b>Mac Build Support</b>.</li>
+<li>In the <b>Add Modules</b> window, select Android or iOS Build Support</li>
 <li>Click <b>Done</b>.</li>
 </ol>
 <p>Wait for the install to complete and then click on Projects.</p>
 <ol>
 <li>Click <b>New</b>.</li>
-<li>In the <b>Create New Project</b>, click <b>2D Template</b>.</li>
-<li>In the <b>Project Name</b>, enter <b>PlaygroundGame</b> (or whatever you want)</li>
+<li>In the <b>Create New Project</b>, click <b>3D Template</b>.</li>
+<li>In the <b>Project Name</b>, enter <b>AR Project</b> (or whatever you want)</li>
 <li>Click <b>Create</b>.</li>
+<li>Add the AR Foundation in the Windows -> Package Manager
+    <ul>
+    <li>Install AR Foundation</li>
+    <li>Install AR Kit</li>
+    <li>Install AR Core</li>
+    </ul>
+    </li>
+<li>Change the Player Settings for each device</li>
 </ol>
+</div>
+<div id="Video" class="tabcontent">
+<p><a href="//www.youtube.com/watch?v=Ml2UakwRxjk" data-lity>Adobe Aero Video</a></p>
 </div>
