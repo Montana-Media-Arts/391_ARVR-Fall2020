@@ -7,23 +7,27 @@ module: 2
 # What are AR Markers
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Markers')">Markers</button>
-  <button class="tablinks" onclick="openTab(event, 'Non')">Non-Markers</button>
+  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
+<button class="tablinks" onclick="openTab(event, 'Frame')">Frame Markers</button>
+<button class="tablinks" onclick="openTab(event, 'Image')">Image Markers</button>
 </div>
 
-<div id="Markers" class="tabcontent" style="display:block">
+<div id="Overview" class="tabcontent" style="display:block">
 <p>
-Marker – Augmented Reality
-People talking about augmented reality often mention the words “tracking” and "markers". But what are augmented reality markers? In this article, we want to give you a short explanation and a few examples of existing markers.
-In short: Augmented reality markers or short AR-markers are visual cues which trigger the display of the virtual information.  Markers are normal images or small objects which are trained beforehand so that they can be recognized later in the camera stream.  After a marker is recognized, its position, scale, and rotation are derived from visual cues and transferred to the virtual information. At this point let us give you a few examples of the most common markers.
-
+People talking about augmented reality often mention the words "tracking" and "markers". But what are augmented reality markers? In this article, we want to give you a short explanation and a few examples of existing markers.
 </p>
+<p>In short: Augmented reality markers or short AR-markers are visual cues which trigger the display of the virtual information.  Markers are normal images or small objects which are trained beforehand so that they can be recognized later in the camera stream.  After a marker is recognized, its position, scale, and rotation are derived from visual cues and transferred to the virtual information. At this point let us give you a few examples of the most common markers.
+</p>
+</div>
+
+<div id="Frame" class="tabcontent">
+
 <table>
 <tr><td colspan="3">Frame Marker</td></tr>
 <tr>
-<td><img src="AR_Toolkit_Marker.png" width="100" height="100" /></td>
-<td><img src="Vuforia_Marker.png" width="100" height="100" /></td>
-<td><img src="csm_Bild_02_2050c79c00.jpg" width="100" height="100" /></td>
+<td><img src="../imgs/AR_Toolkit_Marker.png" width="100" height="100" /></td>
+<td><img src="../imgs/Vuforia_Marker.png" width="100" height="100" /></td>
+<td><img src="../imgs/csm_Bild_02_2050c79c00.jpg" width="100" height="100" /></td>
 </tr>
 </table>
 
@@ -33,7 +37,7 @@ In short: Augmented reality markers or short AR-markers are visual cues which tr
 
 </div>
 
-<div id="Non" class="tabcontent" style="display:block">
+<div id="Image" class="tabcontent" style="display:block">
 <p>
 </p>
 </div>

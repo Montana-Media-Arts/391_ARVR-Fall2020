@@ -49,5 +49,5 @@ module: 2
 <li><a href="https://www.wearvr.com/apps/knightfall-ar" target="_new">Knight Fall AR</a></li>
 <li><a href="https://justaline.withgoogle.com/" target="_new">Just a Line</a></li>
 <li><a href="https://www.ingress.com/game/" target="_new">Ingress Prime</a></li>
-
+</ol>
 </div>
