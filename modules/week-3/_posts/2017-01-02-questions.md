@@ -5,11 +5,14 @@ module: 3
 
 # AR Questions
 
-## What will be for?
+Let's take some time and really think about what our end-users want.  You want identify not only what you are building but also for whom.  
 
-## Who is your audience?
+## To Do
 
-## What technologies will they have?
-
-## What will their level of comfortability be?
-
+* Take five minutes and think about these questions.
+    * What will be for?
+    * Who is your audience?
+    * What technologies will they have?
+    * What will their level of comfortability be?
+* Take five minutes and discuss with someone else your answers.
+* Share with the group your collective thoughts.

@@ -31,7 +31,5 @@ Another mobile AR app is called Sketch AR, which allows you to take existing pho
 
 [SketchAR - iOS](https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8)
 
-We will also look at a desktop program that allows us to create AR experiences that can be view on our phone. It's called Vuforia.  It is quite robust, but it gives us the ability to import 3D objects, images, text, and more and then create an AR experience from that without any code.  Watch the video below on how to get everything installed.
 
-[VuForia](https://vuforia.com/)
 

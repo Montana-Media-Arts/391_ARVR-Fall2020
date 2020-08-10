@@ -13,7 +13,7 @@ module: 2
 
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="" data-lity>Augmented Reality Example Video</a></p>
+<p><a href="" data-lity>Augmented Reality Example Video (need something here)</a></p>
 
 <p>AR let us see the real-life environment right in front of us—trees swaying in the park, dogs chasing balls, kids playing soccer—with a digital augmentation overlaid on it. For example,  a pterodactyl might be seen landing in the trees, the dogs could be mingling with their cartoon counterparts, and the kids could be seen kicking past an alien spacecraft on their way to score a goal.</p>
 
