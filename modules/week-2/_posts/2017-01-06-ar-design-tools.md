@@ -1,10 +1,10 @@
 ---
-title: AR Design Tools
+title: AR Example Applications
 module: 2
 ---
 
 
-# AR Design Tools
+# AR Example Applications
 
 
 There are a lot of tools out there that will help you create augmented reality experiences.
@@ -18,12 +18,6 @@ If you have an iOS device, I encourage you to try this out. You can add characte
 Example here.
 
 <p><a href="//www.youtube.com/embed/RjEYH6YIf0g" data-lity>Adobe Aero Video</a></p>
-
-<p><a href="https://poly.google.com/" target="_new">3D Assets</a></p>
-
-<p>Another is <a href="https://www.unitear.com/" target="_new">Unite AR</a><p>
-
-<p>Another design tool is <a href="https://edu.cospaces.io/" target="_new">Co Spaces Edu</a></p>
 
 Another one that is out there for both devices is Google Expeditions.
 
