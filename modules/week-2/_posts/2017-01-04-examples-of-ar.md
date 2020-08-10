@@ -6,7 +6,7 @@ module: 2
 # Examples of Augmented Reality
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks" onclick="openTab(event, 'Examples')">Examples</button>
   <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>

@@ -7,7 +7,7 @@ module: 2
 # What are AR Markers
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
 <button class="tablinks" onclick="openTab(event, 'Frame')">Frame</button>
 <button class="tablinks" onclick="openTab(event, 'Image')">Image/NFT</button>
 <button class="tablinks" onclick="openTab(event, 'GPS')">GPS</button>

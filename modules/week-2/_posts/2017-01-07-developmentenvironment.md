@@ -8,7 +8,7 @@ module: 2
 In this class, we will primarily use Unity to create AR and VR experiences when developing.  It would be useful to download and install Unity.  Below are the steps.
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Download')">Download</button>
+  <button class="tablinks active" onclick="openTab(event, 'Download')">Download</button>
   <button class="tablinks" onclick="openTab(event, 'Install')">Install</button>
   <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
 </div>
