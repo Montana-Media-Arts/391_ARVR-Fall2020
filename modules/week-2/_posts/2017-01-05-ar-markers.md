@@ -14,7 +14,8 @@ module: 2
 <button class="tablinks" onclick="openTab(event, 'Object')">Object</button>
 <button class="tablinks" onclick="openTab(event, 'MarkerLess')">Marker Less</button>
 <button class="tablinks" onclick="openTab(event, 'Multi')">Multi</button>
-<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual</button>
+<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual</button>v
+<button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <div id="Overview" class="tabcontent" style="display:block">
@@ -109,4 +110,12 @@ Multimarkers are a group of several single markers which have a predefined relat
 <li>The last example is speech commands. This method is more suited for AR-glasses than mobile devices. You can just order your device to display certain information in your view. Your current position for example.</li>
 </ol>
 </div>
+
+<div id="NonVisual" class="tabcontent">
+  <ol>
+  <li>Take 5 minutes to read through your assigned markers.</li>
+  <li>Take 5 minutes to discuss those markers with a partner</li>
+  <li>Explain the different markers to the group</li>
+</div>
+
 <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker#:~:text=Marker%20%E2%80%93%20Augmented%20Reality&text=In%20short%3A%20Augmented%20reality%20markers,later%20in%20the%20camera%20stream." target="_new"><em>Reference</em></a>
