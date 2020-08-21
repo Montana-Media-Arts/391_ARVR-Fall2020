@@ -5,5 +5,5 @@ module: 2
 
 # Conclusions
 
-That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
+That is it for Week 2. We will start on desiging and create AR applications next week.
 
