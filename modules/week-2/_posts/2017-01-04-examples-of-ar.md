@@ -13,8 +13,6 @@ module: 2
 
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="" data-lity>Augmented Reality Example Video (need something here)</a></p>
-
 <p>AR let us see the real-life environment right in front of us—trees swaying in the park, dogs chasing balls, kids playing soccer—with a digital augmentation overlaid on it. For example,  a pterodactyl might be seen landing in the trees, the dogs could be mingling with their cartoon counterparts, and the kids could be seen kicking past an alien spacecraft on their way to score a goal.</p>
 
 <p>With advances in AR technology, these examples are not that different from what might already be available for your smartphone. Augmented reality is, in fact, readily available. It is being used in a myriad of ways, including Snapchat lenses, in apps that help you find your car in a crowded parking lot, and in a variety of shopping apps that let you try on clothes without even leaving home.</p>
@@ -54,7 +52,7 @@ module: 2
 </div>
 <div id="ToDo" class="tabcontent">
     <ol>
-    <li>Spend 2 minutes thinking about other AR Examples</li>
+    <li>Spend 5 minutes experimenting with these or other AR Examples</li>
     <li>Spend 5 minutes talking with a classmate about your Example and it's significance</li>
     <li>Share your examples with the class</li>
     </ol>
