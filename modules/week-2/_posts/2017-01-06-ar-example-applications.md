@@ -1,10 +1,10 @@
 ---
-title: AR Example Applications
+title: More AR Examples
 module: 2
 ---
 
 
-# AR Example Applications
+# More AR Examples
 
 
 There are a lot of tools out there that will help you create augmented reality experiences.
