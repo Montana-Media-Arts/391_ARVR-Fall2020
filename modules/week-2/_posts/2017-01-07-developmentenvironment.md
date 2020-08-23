@@ -11,6 +11,7 @@ In this class, we will primarily use Unity to create AR and VR experiences when 
   <button class="tablinks active" onclick="openTab(event, 'Download')">Download</button>
   <button class="tablinks" onclick="openTab(event, 'Install')">Install</button>
   <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
+   <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
 <div id="Download" class="tabcontent" style="display:block">
@@ -61,4 +62,14 @@ In this class, we will primarily use Unity to create AR and VR experiences when 
 </div>
 <div id="Video" class="tabcontent">
 <p><a href="//www.youtube.com/watch?v=Ml2UakwRxjk" data-lity>AR Foundation Video</a></p>
+</div>
+<div id="ToDo" class="tabcontent">
+  
+  <p>Work on Getting Unity Installed for AR</p>
+  <ol>
+  <li>Make sure you have a working version of Unity installed.</li>
+  <li>Follow the video to get the AR Foundation and the AR Kit or AR Core installed</li>
+  <li>Work with a classmate to make sure you can get a simple example running</li>
+  <li>Discuss with the class your challenges/successes</li>
+  </ol>
 </div>

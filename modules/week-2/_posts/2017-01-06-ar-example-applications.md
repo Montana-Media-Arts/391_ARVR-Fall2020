@@ -30,6 +30,3 @@ Another mobile AR app is called Sketch AR, which allows you to take existing pho
 [SketchAR - Android](https://play.google.com/store/apps/details?id=ktech.sketchar)
 
 [SketchAR - iOS](https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8)
-
-
-

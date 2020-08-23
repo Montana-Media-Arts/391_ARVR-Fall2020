@@ -52,7 +52,7 @@ module: 2
 </div>
 <div id="ToDo" class="tabcontent">
     <ol>
-    <li>Spend 5 minutes experimenting with these or other AR Examples</li>
+    <li>Spend 10 minutes experimenting with these or other AR Examples</li>
     <li>Spend 5 minutes talking with a classmate about your Example and it's significance</li>
     <li>Share your examples with the class</li>
     </ol>
