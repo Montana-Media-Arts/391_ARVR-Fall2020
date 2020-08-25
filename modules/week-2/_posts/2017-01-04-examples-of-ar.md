@@ -69,15 +69,15 @@ module: 2
 
 <p>Another one that is out there for both devices is Google Expeditions.</p>
 
-<a href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions" target="_new">Google Expeditions - Android</a>
+<p><a href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions" target="_new">Google Expeditions - Android</a></p>
 
-<a href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_new">Google Expeditions - iOS</a>
+<p><a href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_new">Google Expeditions - iOS</a></p>
 
 <p>Another mobile AR app is called Sketch AR, which allows you to take existing photographs and make them into an AR experience, or you can draw something and transform it into an AR Experience.</p>
 
-<a href="https://play.google.com/store/apps/details?id=ktech.sketchar" target="_new">SketchAR - Android</a>
+<p><a href="https://play.google.com/store/apps/details?id=ktech.sketchar" target="_new">SketchAR - Android</a></p>
 
-<a href="https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8" target="_new">SketchAR - iOS</a>
+<p><a href="https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8" target="_new">SketchAR - iOS</a></p>
 
 </div>
 <div id="ToDo" class="tabcontent">
