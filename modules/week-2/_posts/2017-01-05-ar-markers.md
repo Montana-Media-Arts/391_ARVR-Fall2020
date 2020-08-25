@@ -116,6 +116,7 @@ Multimarkers are a group of several single markers which have a predefined relat
   <li>Take 5 minutes to read through your assigned markers.</li>
   <li>Take 5 minutes to discuss those markers with a partner</li>
   <li>Explain the different markers to the group</li>
+  </ol>
 </div>
 
 <a href="https://anymotion.com/en/wissensgrundlagen/augmented-reality-marker#:~:text=Marker%20%E2%80%93%20Augmented%20Reality&text=In%20short%3A%20Augmented%20reality%20markers,later%20in%20the%20camera%20stream." target="_new"><em>Reference</em></a>
