@@ -48,16 +48,22 @@ module: 2
 <li><a href="https://www.wearvr.com/apps/knightfall-ar" target="_new">Knight Fall AR</a></li>
 <li><a href="https://justaline.withgoogle.com/" target="_new">Just a Line</a></li>
 <li><a href="https://www.ingress.com/game/" target="_new">Ingress Prime</a></li>
-
+<li><a href="https://www.reaktor-berlin.com/neyon-clash" target="_new">Neyon Clash</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fm.combo.dARkSubjectOne&hl=en" target="_new">dARk: Subject One (Android)</a></li>
+<li><a href="https://apps.apple.com/app/id1312987602" target="_new">dARk: Subject One (iOS)</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en" target="_new">Zombies, Run! (Android)</a></li>
+<li><a href="https://itunes.apple.com/app/id503519713" target="_new">Zombies, Run! (iOS)</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en" target="_new">Geocaching (Android)</a></li>
+<li><a href="https://itunes.apple.com/app/id329541503" target="_new">Geocaching (iOS)</a></li>
 </ol>
 
-One that has gained a lot of popularity on iOS is Adobe Aero.
+<p>One that has gained a lot of popularity on iOS is Adobe Aero.</p>
 
-[Adobe Aero](https://apps.apple.com/app/adobe-aero/id1401748913?ls=1&~tags=ios&~tags=adotcom&_branch_match_id=756997448203900990&utm_source=Adobe-web&utm_campaign=Try-2019-11-All&utm_medium=web-app)
+<a href="https://apps.apple.com/app/adobe-aero/id1401748913?ls=1&~tags=ios&~tags=adotcom&_branch_match_id=756997448203900990&utm_source=Adobe-web&utm_campaign=Try-2019-11-All&utm_medium=web-app" target="_new">Adobe Aero</a>
 
-If you have an iOS device, I encourage you to try this out. You can add characters, give them functionality, and then record your screen.
+<p>If you have an iOS device, I encourage you to try this out. You can add characters, give them functionality, and then record your screen.</p>
 
-Example here.
+<p>Example here.</p>
 
 <p><a href="//www.youtube.com/embed/RjEYH6YIf0g" data-lity>Adobe Aero Video</a></p>
 
