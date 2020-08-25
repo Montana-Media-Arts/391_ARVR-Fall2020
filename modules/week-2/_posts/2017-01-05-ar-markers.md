@@ -14,7 +14,7 @@ module: 2
 <button class="tablinks" onclick="openTab(event, 'Object')">Object</button>
 <button class="tablinks" onclick="openTab(event, 'MarkerLess')">Marker Less</button>
 <button class="tablinks" onclick="openTab(event, 'Multi')">Multi</button>
-<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual</button>v
+<button class="tablinks" onclick="openTab(event, 'NonVisual')">Non-Visual</button>
 <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 
