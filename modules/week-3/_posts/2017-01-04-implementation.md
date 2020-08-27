@@ -14,3 +14,5 @@ Let's take our design and try to design a simplified version of it. Below are a 
 <p>Another design tool is <a href="https://edu.cospaces.io/" target="_new">Co Spaces Edu</a></p>
 
 <p><a href="https://vuforia.com/" target="_new">VuForia</a> is probably the most robust of all the tools.  It has a free trial version.
+
+<p><a href="https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html#betas" target="_new"> Vuforia - Unity</a> is another way to integrate Vuforia.</p>
