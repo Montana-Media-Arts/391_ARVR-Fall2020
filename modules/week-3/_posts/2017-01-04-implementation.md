@@ -13,6 +13,12 @@ Let's take our design and try to design a simplified version of it. Below are a 
 
 <p>One design tool that we are going to use is <a href="https://edu.cospaces.io/" target="_new">Co Spaces Edu</a> to implement our first design</p>
 
+<p>Another is one that is directly on your device called Creator AVR.  Here are the links to Android and iOS.</p>
+
+<p><a href="https://apps.apple.com/us/app/creator-avr/id1080561890" target="_new">iOS</a></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.eonreality.eoncreatoravr&hl=en_US" target="_new">Android</a></p>
+
 <!--
 <p><a href="https://vuforia.com/" target="_new">VuForia</a> is probably the most robust of all the tools.  It has a free trial version.
 
