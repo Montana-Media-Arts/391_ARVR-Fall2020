@@ -9,15 +9,15 @@ jotted: true
 With these, we will have new components available in Unity editor.
 Now we will need to configure our Scene to work with AR.
 
-1. We need AR Session component placed on Scene.
+We need AR Session component placed on Scene.
 
 <img src="../imgs/Step1.png" />
 
-2. We need AR Session Origin somewhere on Scene as well.
+We need AR Session Origin somewhere on Scene as well.
 
 <img src="../imgs/Step2.png" />
 
-3. Add device camera feed to our in-game camera.
+Add device camera feed to our in-game camera.
 
 <img src="../imgs/Step3.png" />
 
