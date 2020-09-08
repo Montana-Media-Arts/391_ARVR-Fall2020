@@ -14,4 +14,3 @@ How does music play into this new world of Augemented Reality.  Using different 
 
 <a href="https://play.google.com/store/apps/details?id=com.Neeeu.AeroTwo" target="_new">Android</a>
 
-## AR and Sports
