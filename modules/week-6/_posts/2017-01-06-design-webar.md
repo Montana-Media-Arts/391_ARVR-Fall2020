@@ -1,6 +1,6 @@
 ---
 title: Design WebAR
-module: 5
+module: 6
 jotted: true
 ---
 

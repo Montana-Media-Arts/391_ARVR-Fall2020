@@ -1,6 +1,6 @@
 ---
-title: App Lab
-module: 5
+title: Create Web Applications
+module: 6
 jotted: true
 ---
 
