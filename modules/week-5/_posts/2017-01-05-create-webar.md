@@ -18,5 +18,3 @@ Now, we want to instantiate for all our objects as well as set everything to act
     }
 
 ```
-
-
