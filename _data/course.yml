@@ -1,5 +1,5 @@
 title: Introduction to Augmented and Virtual Reality, MART 391
-title-short: Intro AR/AV
+title-short: Intro AR/VR
 description: A course to introduce design and development of AR/VR applications.
 institution: University of Montana, School of Media Arts
 institution-short: Media Arts | Montana
@@ -7,6 +7,6 @@ institution-short: Media Arts | Montana
 infoModules: [syllabus, dates, instructors, help]
 
 
-modules: [week-1, week-2, week-3, week-4]
+modules: [week-1, week-2, week-3, week-4, week-5]
 # modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, week-13, final-project]
 # modules: [week-1, week-2, week-3, week-4, week-5, week-6, week-7, week-8, week-9, week-10, week-11, week-12, final-info]
