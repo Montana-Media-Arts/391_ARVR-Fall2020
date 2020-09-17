@@ -11,6 +11,7 @@ What if we want to resize our object?  Then, we must use multiple fingers to fin
 Using a method like this, we can achieve this goal.
 
 ```csharp
+
  public void _PinchtoZoom(GameObject ARObject)
     {
         if (Input.touchCount == 2)
