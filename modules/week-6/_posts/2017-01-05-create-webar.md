@@ -19,3 +19,11 @@ https://xr.plus/
 # Awe
 
 https://awe.media/#main
+
+# Onirix
+
+https://studio.onirix.com 
+
+https://docs.onirix.com/
+
+Take 30 mins to register for at least 1-2 of these and create an application.
