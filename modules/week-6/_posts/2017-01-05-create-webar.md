@@ -27,3 +27,11 @@ https://studio.onirix.com
 https://docs.onirix.com/
 
 Take 30 mins to register for at least 1-2 of these and create an application.
+
+# Blippar
+
+https://accounts.blippar.com/
+
+# PlugXR
+
+https://www.plugxr.com/
