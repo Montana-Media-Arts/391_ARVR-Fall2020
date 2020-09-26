@@ -33,3 +33,5 @@ Please follow these simple steps:
   </body>
 </html>
 ```
+
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>

@@ -68,3 +68,5 @@ Location Based feature is only available on A-Frame
 All the examples you will see, and all AR.js web apps in general, have to be run on a server. You can use local server or deploy the static web app on the web.
 
 So don't forget to always run your examples on secure connections servers or localhost. **Github Pages** is a great way to have free and live websites under https.
+
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>

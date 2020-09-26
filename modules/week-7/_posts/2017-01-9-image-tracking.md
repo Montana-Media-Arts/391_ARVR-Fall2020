@@ -71,3 +71,5 @@ Please follow these simple steps:
   </a-scene>
 </body>
 ```
+
+<a href="https://ar-js-org.github.io/AR.js-Docs/" target="_new">Source</a>
