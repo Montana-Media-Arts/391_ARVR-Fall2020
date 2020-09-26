@@ -1,5 +1,5 @@
 ---
-title: Add Custom Markers
+title: Add Custom Events
 module: 7
 jotted: true
 ---
