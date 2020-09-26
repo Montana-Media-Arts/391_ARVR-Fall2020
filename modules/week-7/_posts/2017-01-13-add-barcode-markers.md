@@ -1,12 +1,14 @@
 ---
-title: Add Custom Markers
+title: Add Barcode Markers
 module: 7
 jotted: true
 ---
 
-# Add Custom Markers
+# Add Barcode Markers
 
-What if we want to add custom Markers?
+What if we want to add a Barcode?
+
+Here is the <a href="../imgs/barcode.png" target="_new">barcode</a> for this example.
 
 ```html
 
@@ -16,10 +18,9 @@ What if we want to add custom Markers?
   <!-- we import arjs version without NFT but with marker + location based support -->
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
     <body style='margin : 0px; overflow: hidden;'>
-        <a-scene embedded
-         arjs="detectionMode: mono_and_matrix; matrixCodeType: 4x4_BCH_13_9_3;">
+       <a-scene arjs='detectionMode: mono_and_matrix; matrixCodeType: 3x3;'>
     <!-- marker id=0 -->
-    <a-marker type="barcode" value="0">
+    <a-marker type="barcode" value="5">
         <a-sphere material="color: blue; opacity: 0.5" radius="0.25"></a-sphere>
     </a-marker>
 
