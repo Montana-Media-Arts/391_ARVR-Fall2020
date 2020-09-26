@@ -8,7 +8,7 @@ jotted: true
 
 Please follow these simple steps:
 
-1. Create a new project with the code below (or open this live example and go directly to the last step)
+1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/marker-based/basic.html" target="_new">live example</a> and go directly to the last step)
 2. Run it on a server
 3. Open the website on your phone
 4. Scan this <a href="../imgs/hiro.png" target="_new">picture</a> to see content through the camera.

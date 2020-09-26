@@ -9,7 +9,7 @@ jotted: false
 ## Import the library
 AR.js from version 3 has a new structure.
 
-AR.js is coming in two, different build. They are both maintained. They are exclusive.
+AR.js is coming in two, different builds. They are both maintained. They are exclusive.
 
 The file you want to import depends on what features you want, and also which render library you want to use (A-Frame or three.js).
 
