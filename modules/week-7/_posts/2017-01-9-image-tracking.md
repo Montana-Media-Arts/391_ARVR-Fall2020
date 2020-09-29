@@ -13,7 +13,7 @@ Please follow these simple steps:
 1. Create a new project with the code below (or open this <a href="https://ar-js-org.github.io/AR.js/aframe/examples/image-tracking/nft/" target="_new">live example</a> and go directly to the last step)
 2. Run it on a server
 3. Open the website on your phone
-4. Scan this <a href="..img/trex-image-big.jpeg" target="_new">picture</a> to see content through the camera.
+4. Scan this <a href="../imgs/trex-image-big.jpeg" target="_new">picture</a> to see content through the camera.
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
