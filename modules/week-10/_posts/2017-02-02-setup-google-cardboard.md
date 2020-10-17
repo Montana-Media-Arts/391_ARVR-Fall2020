@@ -125,3 +125,5 @@ Select Cardboard XR Plugin under Plug-in Providers.
 1. Build your project
 2. Navigate to File > Build Settings.
 3. Select Build or Build and Run.
+
+<a href="https://developers.google.com/cardboard/develop/unity/quickstart" target="_new">Source</a>

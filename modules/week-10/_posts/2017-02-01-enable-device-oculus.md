@@ -102,3 +102,5 @@ While you build your app, Unity prompts you to provide location for the build, f
 * From the upper-right corner, click the gear icon.
 * Go to Settings > General and slide the toggle to allow unknown sources. When prompted for confirmation, select Allow.
 * Go to the location where you’ve saved the build and launch the executable.
+
+<a href="https://developer.oculus.com/documentation/unity/book-unity-gsg/" target="_new">Source</a>
